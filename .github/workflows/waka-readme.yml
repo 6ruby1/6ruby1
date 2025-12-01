@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # runs at 1:00 PM UTC (12:00 AM AEDT)
-    - cron: "0 13 * * *"
+    # runs at 12:00 AM UTC (11:00 AM AEDT)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -14,15 +14,16 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ░▒▓█
-          CODE_LANG: "txt\n💬 Language statistics this week:" # optional
+          CODE_LANG: "txt\n💬 Language statistics this week:"
           TIME_RANGE: last_7_days
-          LANG_COUNT: 7
+          SHOW_TITLE: true
+          LANG_COUNT: 14
           SHOW_TIME: true
-          SHOW_TOTAL: false
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: false
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true #NOTE: overrides SHOW_TOTAL
+          STOP_AT_OTHER: true
           COMMIT_MESSAGE: update language statistics
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
