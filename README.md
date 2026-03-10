@@ -13,15 +13,17 @@ I am a Software Engineering student in Melbourne. I work mainly with Java and C+
 
 ```txt
 💬 Language statistics this week:
-From: 28 February 2026 - To: 07 March 2026
+From: 01 March 2026 - To: 08 March 2026
 
-Total Time: 1 hr 29 mins
+Total Time: 2 hrs 23 mins
 
-CSS         44 mins               ████████████▒░░░░░░░░░░░░   49.98 %
-Bash        21 mins               ██████░░░░░░░░░░░░░░░░░░░   23.82 %
-TOML        13 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-gitignore   7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-zsh         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+CSS         44 mins               ███████▓░░░░░░░░░░░░░░░░░   31.10 %
+Bash        37 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
+YAML        27 mins               █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+TOML        13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+zsh         8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+gitignore   7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Other       2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
