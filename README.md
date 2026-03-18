@@ -13,17 +13,16 @@ I am a Software Engineering student in Melbourne. I work mainly with Java and C+
 
 ```txt
 💬 Language statistics this week:
-From: 08 March 2026 - To: 15 March 2026
+From: 09 March 2026 - To: 16 March 2026
 
-Total Time: 7 hrs 3 mins
+Total Time: 6 hrs 49 mins
 
-Markdown   3 hrs 35 mins         ████████████▓░░░░░░░░░░░░   50.93 %
-CSS        1 hr 34 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-Text       49 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-Lua        26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Python     16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-conf       13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-JSON       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Markdown   3 hrs 35 mins         █████████████▒░░░░░░░░░░░   52.67 %
+CSS        1 hr 34 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+Text       49 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+Lua        25 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Python     16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+JSON       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 hyprlang   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
