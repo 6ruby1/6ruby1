@@ -13,21 +13,21 @@ I am a Software Engineering student in Melbourne. I work mainly with Java and C+
 
 ```txt
 💬 Language statistics this week:
-From: 26 March 2026 - To: 02 April 2026
+From: 27 March 2026 - To: 03 April 2026
 
-Total Time: 5 hrs 5 mins
+Total Time: 3 hrs 31 mins
 
-Lua        2 hrs 55 mins         ██████████████▒░░░░░░░░░░   57.31 %
-TeX        56 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
-Python     25 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Bash       21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-HTML       16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-JSON       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-md         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-BibTeX     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-CSV        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-rtf        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-hyprlang   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Lua        1 hr 50 mins          █████████████░░░░░░░░░░░░   52.46 %
+TeX        28 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+Python     24 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Bash       21 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+HTML       16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+JSON       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+md         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+BibTeX     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+rtf        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+hyprlang   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+CSV        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
