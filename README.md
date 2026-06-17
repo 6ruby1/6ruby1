@@ -13,14 +13,13 @@ I am a Software Engineering student in Melbourne. I work mainly with Java and C+
 
 ```txt
 💬 Language statistics this week:
-From: 07 June 2026 - To: 14 June 2026
+From: 08 June 2026 - To: 15 June 2026
 
-Total Time: 13 hrs 11 mins
+Total Time: 19 hrs 7 mins
 
-Python   13 hrs 3 mins         ████████████████████████▓   99.03 %
-YAML     4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-CSV      2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python   18 hrs 56 mins        ████████████████████████▓   99.05 %
+YAML     4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other    3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
