@@ -25,7 +25,7 @@ jobs:
           SHOW_MASKED_TIME: true #NOTE: overrides SHOW_TOTAL
           STOP_AT_OTHER: true
           COMMIT_MESSAGE: update language statistics
-          # COMMITTER_NAME: GitHubActionBot
-          # COMMITTER_EMAIL: action-bot@github.com
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: GitHubActionBot
           AUTHOR_EMAIL: action-bot@github.com
