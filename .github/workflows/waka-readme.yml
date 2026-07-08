@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ░▒▓█
           CODE_LANG: "txt\n💬 Language statistics this week:"
@@ -25,7 +25,7 @@ jobs:
           SHOW_MASKED_TIME: true #NOTE: overrides SHOW_TOTAL
           STOP_AT_OTHER: true
           COMMIT_MESSAGE: update language statistics
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com
-          AUTHOR_NAME: 6ruby1
-          AUTHOR_EMAIL: ruby@rubygem.dev
+          # COMMITTER_NAME: GitHubActionBot
+          # COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: GitHubActionBot
+          AUTHOR_EMAIL: action-bot@github.com
