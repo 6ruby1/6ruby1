@@ -1,8 +1,6 @@
-## Hi, I'm Ruby!
-
 ## About Me
 
-I am a Software Engineering student in Melbourne. I work mainly with Java and C++, and enjoy creating practical applications. I am passionate about configuring my Linux environment, utilising shell scripts and constant tweaking to ensure perfection.
+I am a Software Engineering student in Melbourne. I work mainly with Java and C++, and enjoy creating practical applications.
 
 ## Contact
 
