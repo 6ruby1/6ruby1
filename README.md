@@ -11,18 +11,12 @@ I am a Software Engineering student in Melbourne. I work mainly with Java and C+
 
 ```txt
 💬 Language statistics this week:
-From: 04 July 2026 - To: 11 July 2026
+From: 11 July 2026 - To: 18 July 2026
 
-Total Time: 1 hr 2 mins
+Total Time: 18 mins
 
-RGBDS Assembly   26 mins               ██████████▓░░░░░░░░░░░░░░   42.27 %
-TOML             8 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Makefile         8 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-tmux             6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-zsh              5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-Assembly         2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Lua              2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Shell            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Makefile   15 mins               █████████████████████▒░░░   85.25 %
+C          2 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
 ```
 
 <!--END_SECTION:waka-->
