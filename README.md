@@ -11,7 +11,7 @@ I am a Software Engineering student in Melbourne. I work mainly with Java and C+
 
 ```txt
 💬 Language statistics this week:
-From: 18 July 2026 - To: 25 July 2026
+From: 25 July 2026 - To: 01 August 2026
 
 Total Time: 0 secs
 
